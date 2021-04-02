@@ -32,7 +32,7 @@
 
 - Live demo can be found here: VERCEL
 - The webpage was relatively easy to develop using Angular framework.
-- I learned how to use CSS Grid along with media queries and BEM, as well as adding animation effect to the webpage.
+- I used HTML5 along with SCSS and media queries to stylize the page.
 
 ### Built With
 - Angular (https://www.angular.io/)
