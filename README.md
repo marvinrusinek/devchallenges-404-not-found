@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="VERCEL">Demo</a>
+    <a href="https://devchallenges-404-not-found-kwovvekj5-marvinrusinek.vercel.app/">Demo</a>
     <span> | </span>
     <a href="https://www.github.com/marvinrusinek/devchallenges-404-not-found">Solution</a>
     <span> | </span>
@@ -30,7 +30,7 @@
 <b>Screenshot:</b> 
 <img src="http://www.marvinrusinek.com/portfolio-projects/devchallenges-404-not-found.png" align="center">
 
-- Live demo can be found here: VERCEL
+- Live demo can be found here: https://devchallenges-404-not-found-kwovvekj5-marvinrusinek.vercel.app/
 - The webpage was relatively easy to develop using Angular framework.
 - I used HTML5 along with SCSS and media queries to stylize the page.
 
