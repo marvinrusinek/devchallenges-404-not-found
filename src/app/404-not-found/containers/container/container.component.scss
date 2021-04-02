@@ -1,0 +1,26 @@
+@import "../../styles/variables";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  max-width: 1440px;
+  margin: 40px 119px 24px 77px;
+  display: flex;
+  flex-direction: column;
+}
+
+@media only screen and (max-width: 989px) {
+  main {
+    margin: 75px 72px 24px 51px;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  main {
+    margin: 109px 24px 24px 24px;
+  }
+}

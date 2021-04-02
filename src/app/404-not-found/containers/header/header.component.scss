@@ -1,0 +1,23 @@
+@import "../../styles/variables";
+
+header {
+  nav {
+    h1 {
+      font: 700 24px "Inconsolata", sans-serif;
+      color: $gray-black;
+      text-transform: uppercase;
+    }
+  }
+}
+
+
+@media only screen and (max-width: 989px) {
+  header {
+    margin-top: -70px;
+  }
+}
+@media only screen and (max-width: 650px) {
+  header {
+    margin-top: -70px;
+  }
+}

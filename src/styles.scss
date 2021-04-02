@@ -1,1 +1,5 @@
-/* You can add global styles to this file, and also import other style files */
+@import "src/app/404-not-found/styles/variables";
+
+html {
+  background-color: $white;
+}
