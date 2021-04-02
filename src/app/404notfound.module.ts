@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { RouterModule, Routes } from '@angular/router';
 
-import { AppComponent } from './app.component';
+import { AppComponent } from './404notfound.component';
 import { ContainerComponent } from './404-not-found/containers/container/container.component';
 import { HeaderComponent } from './404-not-found/containers/header/header.component';
 import { MainComponent } from './404-not-found/containers/main/main.component';
